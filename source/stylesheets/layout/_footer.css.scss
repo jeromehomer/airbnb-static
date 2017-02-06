@@ -1,0 +1,22 @@
+.footer {
+  background-color: $gray-dark;
+  color: #CCCCCC;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.social_networks {
+  padding: 10px;
+}
+
+
+.icons {
+  color: #CCCCCC;
+  margin-right: 30px;
+  &:hover {
+  color: $yellow-hover;
+  }
+}
+
+

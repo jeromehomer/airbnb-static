@@ -1,0 +1,40 @@
+.cards {
+  padding: 70px;
+  /*display: flex;
+  justify-content: space-between;*/
+}
+.card {
+  color: white;
+  position: relative;
+  background-size: cover;
+  position: relative;
+  width: 90%;
+  height:230px;
+  border-radius: 5%;
+}
+
+.card-link:hover {
+  opacity: 0.2;
+}
+
+.card-category {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.card-description {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  font-size: 20px;
+  h3 {
+  font-size: 20px;
+  }
+  p {
+  font-size: 15px;
+  }
+}
+

@@ -49,6 +49,10 @@ activate :autoprefixer
 #     "Helping"
 #   end
 # end
+data.members.each do |name|
+  proxy "/members/#{infos.name}.html", "/members/show.html", :locals => { :owner_name => name }, :ignore => true
+end
+
 
 set :css_dir, 'stylesheets'
 

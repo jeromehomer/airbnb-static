@@ -1,0 +1,21 @@
+Anne:
+  owner_name: Anne
+  city_image: card-london.jpeg
+  category: London
+  description: Anne's home
+  paragraphe: Charming room near Picadilly Circus
+  member_pic: anne.jpg
+Seb:
+  owner_name: Sebastien
+  city_image: card-paris.jpg
+  category: Paris
+  description: Seb's home
+  paragraphe: Cute flat in the heart of Montmartre
+  member_pic: seb.jpg
+Romain:
+  owner_name: Romain
+  city_image: card-brussels.jpeg
+  category: Brussels
+  description: Romain's home
+  paragraphe: Amazing room in Art Nouveau building
+  member_pic: romain.jpg
